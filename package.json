@@ -9,7 +9,7 @@
   "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Hypertabs"
+    "url": "git+https://github.com/GretchenMitchell/Heyitjoe"
   },
   "keywords": ["amethystnetwork-dev"],
   "author": "",
